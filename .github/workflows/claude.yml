@@ -43,6 +43,13 @@ jobs:
           # Optional: Give a custom prompt to Claude. If this is not specified, Claude will perform the instructions specified in the comment that tagged it.
           # prompt: 'Update the pull request description to include a summary of changes.'
 
+          custom_instructions: |
+            This is a deal intelligence agent for B2B pipeline reviews.
+            The core analysis logic lives in pipeline.js.
+            Business context, sales methodology (MEDPIC), stage definitions, risk thresholds, and output format standards are defined in CLAUDE.md.
+            Any changes to deal health logic, risk flags, next step recommendations, or forecast output must be consistent with the methodology in CLAUDE.md.
+            Do not modify analysis behavior without understanding how it aligns with the MEDPIC framework and the stage/activity thresholds documented there.
+
           # Optional: Add claude_args to customize behavior and configuration
           # See https://github.com/anthropics/claude-code-action/blob/main/docs/usage.md
           # or https://code.claude.com/docs/en/cli-reference for available options
