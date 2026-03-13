@@ -1,0 +1,9 @@
+deal_name,account_name,deal_value,stage,days_in_stage,last_activity_date,next_step,forecast_category,owner,close_date
+Acme Logistics - Workflow Automation,Acme Logistics,85000,Discovery,5,2026-03-07,"Sarah Chen (VP Ops) will run internal demo with ops team on 2026-03-15",Pipeline,Jessica Park,2026-06-30
+Meridian Health - Analytics Platform,Meridian Health,240000,Negotiation,12,2026-03-02,"Legal to complete redlines and return contract by 2026-03-18",Commit,Marcus Webb,2026-03-31
+Brightfield Capital - Reporting Suite,Brightfield Capital,120000,Proposal Sent,8,2026-02-26,"Follow up with David next week",Best Case,Rachel Torres,2026-04-30
+Vantage Manufacturing - ERP Integration,Vantage Manufacturing,320000,Discovery,20,2026-02-18,,Pipeline,Tom Harris,2026-06-30
+Cobalt Fintech - Compliance Module,Cobalt Fintech,55000,Verbal Commit,3,2026-03-09,"Tom (CFO) to sign and return contract by 2026-03-14",Commit,Jessica Park,2026-03-31
+Strata Real Estate - Data Platform,Strata Real Estate,175000,Negotiation,26,2026-03-02,"Check in with Mike about procurement status",Best Case,Marcus Webb,2026-03-31
+Nexgen Retail - Inventory AI,Nexgen Retail,98000,Proposal Sent,15,2026-02-15,"Check in",Best Case,Rachel Torres,2026-03-31
+Pinnacle Software - Dev Tools Bundle,Pinnacle Software,42000,Discovery,12,2026-02-26,"I will send case studies and follow up Thursday",Pipeline,Tom Harris,2026-05-31

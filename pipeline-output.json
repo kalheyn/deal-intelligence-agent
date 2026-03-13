@@ -1,0 +1,80 @@
+[
+  {
+    "deal_name": "Acme Logistics - Workflow Automation",
+    "health_status": "HEALTHY",
+    "risk_factors": [],
+    "recommended_next_step": "Follow up with Sarah Chen (VP Ops) on 2026-03-16 to debrief on the internal demo results, gather feedback from the ops team, and identify key stakeholders for the next stage.",
+    "forecast_note": "Pipeline (10–39% probability) is appropriate for an early-stage Discovery deal at only 5 days in. The deal shows strong engagement with a clear next step involving a named decision-maker and a scheduled internal demo. If the demo goes well, there is a reasonable path to advancing the stage and potentially upgrading the forecast category in the coming weeks."
+  },
+  {
+    "deal_name": "Meridian Health - Analytics Platform",
+    "health_status": "WATCH",
+    "risk_factors": [
+      "Next step lacks a named prospect-side person — 'Legal' is a department, not a specific individual",
+      "11 days since last activity (2026-03-02), approaching the 14-day watch threshold"
+    ],
+    "recommended_next_step": "Marcus Webb should identify and contact the specific legal counsel at Meridian Health handling redlines, confirm receipt of the contract, and schedule a checkpoint call before 2026-03-18 to ensure redlines are on track.",
+    "forecast_note": "Commit (75–90%) is plausible given the deal is in Negotiation with active contract redlining and within the stage time threshold (12 of 21 days). However, the lack of a named legal contact and 11 days of inactivity introduce moderate risk — if redlines stall, the 2026-03-31 close date could slip. Recommend validating the timeline with a specific counterpart before maintaining Commit status."
+  },
+  {
+    "deal_name": "Brightfield Capital - Reporting Suite",
+    "health_status": "WATCH",
+    "risk_factors": [
+      "15 days since last activity (2026-02-26 to 2026-03-13) exceeds 14-day WATCH threshold",
+      "Next step is vague: 'Follow up with David next week' lacks a specific action beyond follow-up and lacks a concrete date"
+    ],
+    "recommended_next_step": "Contact David at Brightfield Capital by 2026-03-14 to review the proposal, address any outstanding questions, and confirm a decision timeline before the proposal stage exceeds its 10-day threshold",
+    "forecast_note": "Best Case (40–74% probability) is reasonable given the deal is still within the Proposal Sent stage threshold at 8 days, but the 15-day activity gap and vague next step introduce momentum risk. If engagement is not re-established within the next 1–2 days, the deal could slip and the forecast may need to be downgraded to Pipeline."
+  },
+  {
+    "deal_name": "Vantage Manufacturing - ERP Integration",
+    "health_status": "AT RISK",
+    "risk_factors": [
+      "No next step defined — deal lacks clear direction and accountability",
+      "Days in Discovery stage (20) exceeds the 14-day maximum threshold by 6 days",
+      "Last activity was 23 days ago (2026-02-18), exceeding the 21-day AT RISK threshold — deal appears stalled",
+      "No identified prospect-side contact or scheduled engagement on record"
+    ],
+    "recommended_next_step": "Tom Harris should immediately reach out to the primary contact at Vantage Manufacturing to re-engage the discovery process. Schedule a discovery call with the project sponsor by 2026-03-17 to validate ERP integration requirements, confirm budget authority, and assess whether this opportunity is still active.",
+    "forecast_note": "Pipeline category (10–39% probability) is directionally appropriate given the early Discovery stage, but the deal's AT RISK health — with no activity in 23 days, no defined next step, and an overdue stage — suggests the probability is likely at the very low end or the deal may need to be moved to a dormant/closed-lost status if re-engagement fails within the next week."
+  },
+  {
+    "deal_name": "Cobalt Fintech - Compliance Module",
+    "health_status": "HEALTHY",
+    "risk_factors": [],
+    "recommended_next_step": "Confirm with Tom (CFO) on 2026-03-14 that the signed contract has been returned; if not received by end of day, call Tom directly to resolve any last-minute concerns.",
+    "forecast_note": "Commit at 75–90% probability is well-supported: the deal is within the Verbal Commit stage threshold (3 of 7 days), activity is recent (4 days ago), and the next step is strong with a named decision-maker (Tom, CFO), a specific action (sign and return contract), and a specific date (2026-03-14). Forecast category is realistic and appropriately categorized."
+  },
+  {
+    "deal_name": "Strata Real Estate - Data Platform",
+    "health_status": "WATCH",
+    "risk_factors": [
+      "Days in Negotiation stage (26) exceeds the 21-day maximum threshold by 5 days",
+      "Last activity was 11 days ago (2026-03-02), approaching the 14-day watch threshold",
+      "Next step is vague — 'Check in with Mike about procurement status' lacks a specific date and a concrete action beyond checking in"
+    ],
+    "recommended_next_step": "Schedule a call with Mike by 2026-03-16 to review specific procurement blockers, confirm redline items on the contract, and establish a firm timeline to complete legal/procurement review before the 2026-03-31 close date.",
+    "forecast_note": "Best Case (40–74% probability) is marginally reasonable given the deal is in Negotiation, but the stage is over threshold and the next step is vague. Without a concrete procurement timeline and active engagement, this deal risks slipping past the 2026-03-31 close date. If procurement blockers are not resolved within the next week, consider downgrading to Pipeline."
+  },
+  {
+    "deal_name": "Nexgen Retail - Inventory AI",
+    "health_status": "AT RISK",
+    "risk_factors": [
+      "Days in 'Proposal Sent' stage (15) exceeds the 10-day maximum threshold by 5 days",
+      "Last activity was 26 days ago (2026-02-15), far exceeding the 21-day AT RISK threshold",
+      "Next step is vague ('Check in') with no named person, specific action, or date"
+    ],
+    "recommended_next_step": "Rachel Torres should immediately reach out to the primary contact at Nexgen Retail to schedule a proposal review meeting within the next 3 days. Specifically, request a 30-minute call with the decision-maker to address any questions or objections on the proposal and confirm budget alignment before the 2026-03-31 close date.",
+    "forecast_note": "Best Case (40–74% probability) appears overly optimistic for this deal. With no meaningful activity in 26 days, a stalled proposal stage, and only a vague next step, this deal is at serious risk of slipping or going cold. Recommend downgrading to Pipeline until re-engagement with the prospect is confirmed and the proposal review is completed."
+  },
+  {
+    "deal_name": "Pinnacle Software - Dev Tools Bundle",
+    "health_status": "WATCH",
+    "risk_factors": [
+      "15 days since last activity (2026-02-26 to 2026-03-13) exceeds 14-day WATCH threshold",
+      "Next step is vague: 'follow up Thursday' lacks a named prospect-side person, a specific action tied to the prospect, and a specific date (which Thursday is unspecified)"
+    ],
+    "recommended_next_step": "Reach out to the primary contact at Pinnacle Software today (2026-03-13) to share relevant dev tools case studies, confirm their evaluation criteria, and schedule a discovery call with the technical decision-maker for a specific date next week.",
+    "forecast_note": "Pipeline (10–39% probability) is a reasonable categorization for a deal still in Discovery at 12 days. However, the activity gap and vague next step suggest momentum is slipping. Without re-engagement and a clear prospect-committed next step, the deal risks stalling before advancing to Proposal stage."
+  }
+]
